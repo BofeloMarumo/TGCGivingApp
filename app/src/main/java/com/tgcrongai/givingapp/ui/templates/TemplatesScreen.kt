@@ -29,6 +29,7 @@ private data class SampleTx(
     val dateTime: String = "14/9/26 at 2:59 PM"
 )
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun TemplatesScreen(viewModel: TemplatesViewModel = viewModel()) {
     val templates by viewModel.templates.collectAsState()
