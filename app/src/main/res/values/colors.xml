@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Sampled directly from The GO Church - Rongai Campus logo -->
+    <color name="teal_900">#12303F</color>
+    <color name="teal_700">#1B5266</color>
+    <color name="teal_600">#287394</color>
+    <color name="teal_100">#E4EEF1</color>
+    <color name="teal_50">#F1F6F7</color>
+    <color name="paper">#F7F5F0</color>
+    <color name="ink">#1C2733</color>
+    <color name="ink_soft">#5B6B76</color>
+    <color name="gold">#C99A3B</color>
+    <color name="green">#2E9E63</color>
+    <color name="amber">#D98E2B</color>
+    <color name="red">#D6483F</color>
+</resources>
