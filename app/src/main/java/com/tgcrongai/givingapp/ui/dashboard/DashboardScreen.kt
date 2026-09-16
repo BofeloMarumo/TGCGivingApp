@@ -110,6 +110,7 @@ fun DashboardScreen(viewModel: DashboardViewModel = viewModel()) {
     }
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 private fun CategoryDropdown(category: String, onSelected: (String) -> Unit) {
     var expanded by remember { mutableStateOf(false) }
